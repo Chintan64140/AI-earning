@@ -15,9 +15,9 @@ function Home() {
         position: "relative",
       }}
     >
-        <a href="https://ai-income-eight.vercel.app/" className="bg-[red] p-3">
+        {/* <a href="https://ai-income-eight.vercel.app/" className="bg-[red] p-3">
         Go to my site here
-      </a>
+      </a> */}
       <section
         className="hero"
         style={{
